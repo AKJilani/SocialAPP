@@ -74,6 +74,11 @@ A Django-based social media platform that allows users to create, read, update, 
    - Username: habib
    - Password: admin@123
 
+#### Added 2 different ERD (with and without) Relation between Database Tables.
+   ---ERD TITLES:
+   - File Name: ERD_With_Relationship.jpg
+   - SocialAPP_ERD.jpg
+
 ## Project Structure
 
 ```
@@ -120,6 +125,7 @@ Social_Media_App/
 ├── db.sqlite3
 ├── manage.py
 └── requirements.txt
+
 ```
 
 ## Dependencies
